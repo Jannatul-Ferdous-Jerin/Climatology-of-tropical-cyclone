@@ -1,4 +1,4 @@
-# Climatology-of-tropical-cyclone
+#Climatological Analysis of Tropical Cyclones over the Bay of Bengal: 1972–2023
 
 ![image](https://github.com/user-attachments/assets/08db2039-9504-43c8-abac-e55d1905bff4)
 In this project, I along with my team members tried to analyse the climatology of tropical cylcone over the Bay of Bengal over 52 years time period(1972-2023). 
